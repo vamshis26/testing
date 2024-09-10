@@ -21,6 +21,12 @@ Please select the type of change from the list below:
 
 ---
 
+## Jira Link
+
+**Jira Ticket:**
+- [Jira Ticket Link](https://your-jira-domain.atlassian.net/browse/TICKET-ID)
+
+
 ## How to Test
 
 **Testing Instructions:**
