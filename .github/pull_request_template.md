@@ -24,7 +24,7 @@ Please select the type of change from the list below:
 ## Jira Link
 
 **Jira Ticket:**
-- Paste the full ticket URL here: `Provide Ticket here`
+- [Link here]()
 
 
 ## How to Test
